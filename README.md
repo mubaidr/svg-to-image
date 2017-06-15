@@ -1,2 +1,2 @@
-# svg-to-png
-Convert SVG to PNG with specified width &amp; Height inputs using HTML5 Canvas
+# svg-to-image
+Convert SVG to PNG/JPEG with specified width &amp; Height inputs using HTML5 Canvas
